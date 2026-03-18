@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-- 🎓 I am a second-year undergraduate student in Informatics Engineering at the Bandung Institute of Technology
+- 🎓 I am a third-year undergraduate student in Informatics Engineering at the Bandung Institute of Technology
 - 💻 Passionate about Software Engineering
-- 🌱 Currently learning Web Development
+- 🌱 Currently learning Web Development and Machine Learning
 
 ---
 
