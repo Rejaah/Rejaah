@@ -4,15 +4,12 @@
 
 </div>
 
----
-
 ## About
 
 - 🎓 Final-year Informatics Engineering student at **Bandung Institute of Technology**
 - 💻 Focused on **Software Engineering** - full-stack, systems, and AI/IoT
 - 📬 Reach me at **reza11781@gmail.com**
 
----
 
 ## Tech Stack
 
@@ -38,7 +35,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
----
 
 ## GitHub Stats
 
@@ -47,7 +43,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rejaah&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
 </div>
 
----
 
 ## Contribution
 
@@ -59,7 +54,6 @@
   </picture>
 </div>
 
----
 
 ## Let's Connect!
 <div align="center">
